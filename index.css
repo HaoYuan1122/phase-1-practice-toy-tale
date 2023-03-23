@@ -64,6 +64,9 @@ button:hover {
   background: #515DA2;
   opacity: .8;
 }
+.containerToggle{
+    display: block;
+}
 
 .add-toy-form {
   width: 80%
